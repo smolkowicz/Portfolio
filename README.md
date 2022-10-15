@@ -1,2 +1,2 @@
 # My tester's Portfolio
-# About me 
+# About me - My name is Justyna Smołkowicz
