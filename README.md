@@ -10,10 +10,91 @@ My name is Justyna Smołkowicz and I want to be a good software tester. 💻 Why
 
 ✅ Kurs ISTQB ( 24 h ) - szkoleniowiec SJSI Dominik Gromadzki
 
-✅ Podstawy manualnego testowania oprogramowania ( Udemy )
+✅ Podstawy manualnego testowania oprogramowania ( Udemy.com )
 
-✅ Praktyczny kurs testowania oprogramowania ( Udemy )
+✅ Praktyczny kurs testowania oprogramowania ( Udemy.com )
 
 ✅ Warsztaty on-line z podstaw testowania - prowadząca - Maja Malinowska 
 
 ✅ kurs SQL w 120 minut ( kursysql.pl )
+
+✅ kurs Dare IT Challenge: Zostań Testerem Manualnym 
+
+✅ testerski projekt treningowy - Cherry IT
+
+
+# **Books** #
+
+📚 "Certyfikowany tester ISTQB" - Adam Roman, Lucjan Stapp
+
+📚 "Podróż przez świat testowania. Fun with bugs" - Karolina Pawłowska & Natalia Pawlak
+
+📚 "Pasja testowania" - Krzysztof Jadczyk
+
+📚 "Zawód tester" - Radosław Smiglin
+
+**Now I'm reading:**
+
+📚 "Testowanie i jakość oprogramowania. Modele, techniki, narzędzia" - Adam Roman
+
+📚 "SQL w mgnieniu oka" - Ben Forta
+
+📚 "Język SQL, przyjazny podręcznik" - Larry Rockoff
+
+📚 "English 4 IT" - Beata Błaszczyk
+
+
+# **Tools** #
+
+🛠️ Jira
+
+🛠️ Trello
+
+🛠️ TestLink
+
+🛠️ GitHub
+
+🛠️ Slack, Discord
+
+🛠️ Microsoft Teams, Zoom
+
+🛠️ ShareX, PicPick
+
+🛠️ Microsoft SQL Server Management Studio, phpMyAdmin
+
+
+# **Tech skills** #
+
+🔶 SCRUM
+
+🔶 SQL
+
+🔶 Chrome DevTools
+
+🔶 Software testing
+
+🔶 Creating test cases
+
+🔶 Reporting bugs
+
+
+# **Soft skills** #
+
+🌺 English B1+ ( I'm developing my education in a language school )
+
+🌺 communicative, teamwork
+
+🌺 creative 
+
+🌺 open-minded
+
+🌺 ambitious 
+
+🌺 meticulous
+
+
+# **My Projects** #
+
+➡️ Test cases:
+
+![TestCases1](https://docs.google.com/document/d/1kLjzC0C1I04cWWiRdDTVTXutFNVjs-JlOK93FaLRECs/edit)
