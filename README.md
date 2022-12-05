@@ -97,4 +97,5 @@ My name is Justyna Smołkowicz and I want to be a good software tester. 💻 Why
 
 ➡️ Test cases:
 
-![TestCases1](https://docs.google.com/document/d/1kLjzC0C1I04cWWiRdDTVTXutFNVjs-JlOK93FaLRECs/edit)
+ - [Test Cases 1](https://docs.google.com/document/d/1kLjzC0C1I04cWWiRdDTVTXutFNVjs-JlOK93FaLRECs/edit)
+ - [Test Cases 2](https://docs.google.com/document/d/1gUmnglk1dIJzhJGG3wIU-hTlP0L1GY8LYI6oGT6byhs/edit)
