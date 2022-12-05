@@ -108,3 +108,22 @@ My name is Justyna Smołkowicz and I want to be a good software tester. 💻 Why
 ✅ **Tests report** ✅
 
 - [Tests report](https://docs.google.com/document/d/1Jv00Yltzrd0RpfAFpTXJBIrgONKI7WzLFjzaVd9k6Ts/edit)
+
+
+# **My Linkedin profile** #
+
+👩‍🎓 [Justyna Smołkowicz](https://www.linkedin.com/in/justyna-smo%C5%82kowicz-2a0b89a5/) 👩‍💻
+
+# **My favourite blogs** #
+
+✍️ [Blog Tester](https://tester.milenabednarczyk.pl/)
+
+✍️ [Testerka.pl](https://testerka.pl/)
+
+✍️ [Testerzy.pl](https://testerka.pl/)
+
+✍️ [Guru99](https://www.guru99.com/)
+
+✍️ [To nie bug](https://www.toniebug.pl/blog/#services)
+
+✍️ [Cherry-IT](http://cherry-it.pl/)
